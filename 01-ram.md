@@ -11,6 +11,18 @@ access quickly.
 A computer uses RAM whenever you are doing things like browsing the
 internet, listening to music, writing a document, or playing a game.
 
+## 🖼️ What Does RAM Look Like?
+
+![Example of a RAM module](ram-module.jpg)
+
+The image above shows an example of a RAM module.
+
+The black rectangular pieces are memory chips, while the gold contacts
+along the bottom allow the RAM module to connect to the computer's
+motherboard.
+
+Different computers can use different types of RAM, so not every RAM
+module will look exactly the same.
 ---
 
 ## 💡 A Simple Way to Think About RAM
