@@ -14,6 +14,29 @@ A simple way to think about the CPU is as one of the computer's main
 When you tell the computer to do something, instructions have to be
 processed before the computer can complete the task.
 
+## 🖼️ What Does a CPU Look Like?
+
+![Example of a computer CPU](cpu-processor.jpg)
+
+The image above shows an example of a CPU, also called a processor.
+
+A desktop CPU is a small piece of computer hardware that is installed
+into a special area on the motherboard called the **CPU socket**.
+
+The CPU may look small, but it performs a huge number of instructions
+that help the computer operate.
+
+Different computers can use different CPUs, so not every processor will
+look exactly the same.
+
+### 🔌 Where Does the CPU Go?
+
+The CPU connects to the computer's **motherboard**.
+
+The motherboard is the main circuit board that connects many of the
+computer's components together.
+
+We will learn more about motherboards in another beginner lesson.
 ---
 
 ## 💡 A Simple Way to Think About the CPU
